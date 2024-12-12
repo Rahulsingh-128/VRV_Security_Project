@@ -20,7 +20,7 @@ The application is _almost_ **production ready**.
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/Rohitgarg157/RBAC_VRV_Security_Project
+git clone https://github.com/Rahulsingh-128/VRV_Security_Project.git
 ```
 
 Step 2: cd into the cloned repo and run:
